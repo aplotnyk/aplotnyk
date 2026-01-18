@@ -1,4 +1,4 @@
-# Hi there, my name is Anna 👋
+# Hi there, I'm Anna 👋
 
 I’m a data-focused developer with a software foundation from **42 Prague** and growing experience in **data engineering**.  
 I enjoy building clean, reliable data workflows and exploring how messy data are turning into the meaningful structure.
